@@ -26,7 +26,7 @@ My name is François-Louis Toussaint, I live in France and I am currently a web 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> </a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> </a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
-<a><img src="hhttps://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="Greensock" width="40" height="40"/> </a>
+<a><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" alt="Greensock" width="40" height="40"/> </a>
 
 ##
 
