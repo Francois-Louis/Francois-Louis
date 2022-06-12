@@ -27,7 +27,7 @@ My name is François-Louis Toussaint, I live in France and I am currently a web 
 </a>
 
 <a href="https://github.com/Francois-Louis/Francois-Louis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Francois-Louis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="François-Louis's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Francois-Louis&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="François-Louis's GitHub Stats" />
 </a>
 
 <a href=https://github.com/Francois-Louis/Boules-de-poil-Front>
