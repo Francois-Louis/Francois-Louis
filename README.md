@@ -30,7 +30,11 @@ My name is François-Louis Toussaint, I live in France and I am currently a web 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Francois-Louis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href=https://github.com/Francois-Louis/NFT-preview-card-challenge-FEM>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francois-Louis&repo=NFT-preview-card-challenge-FEM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href=https://github.com/Francois-Louis/Boules-de-poil-Front>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francois-Louis&repo=Boules-de-poil-Front&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href=https://github.com/Francois-Louis/Boules-de-poil-Back>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francois-Louis&repo=Boules-de-poil-Back&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
