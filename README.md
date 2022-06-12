@@ -6,19 +6,19 @@ My name is François-Louis Toussaint, I live in France and I am currently a web 
 
 ## 🔨 Languages and tools
 
-<a><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="GIT" width="55" height="55"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="GIT" width="55" height="55"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="GIT" width="55" height="55"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="GIT" width="55" height="55"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="GIT" width="55" height="55"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="GIT" width="55" height="55"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="GIT" width="40" height="40"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="GIT" width="40" height="40"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="GIT" width="40" height="40"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="GIT" width="40" height="40"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="GIT" width="40" height="40"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="GIT" width="40" height="40"/> </a>
 
 
 
 ## 🎓 Learning
 
-<a><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="GIT" width="55" height="55"/> </a>
+<a><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="GIT" width="40" height="40"/> </a>
 
 ##
 
