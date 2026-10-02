@@ -53,4 +53,4 @@ Alongside software development, I'm also a professional knifemaker.
 
 Through **FL Toussaint**, I design and manufacture knives in France, combining craftsmanship, product design and manufacturing.
 
-**[fltoussaint.com](https://fltoussaint.com/)**
+**[fl-toussaint.fr](https://fl-toussaint.fr/)**
