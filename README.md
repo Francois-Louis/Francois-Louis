@@ -1,48 +1,56 @@
-<!--**Francois-Louis/Francois-Louis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# François-Louis Toussaint
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bonjour !
+**Web Developer · Knifemaker**
 
-My name is François-Louis Toussaint, I live in France and I am currently a web developper student at [**O'clock**](https://oclock.io/) school, after a career in knifemaking.
+I'm a web developer based in France, currently working at **Dassaud-Fils**, alongside my activity as a professional knifemaker.
 
-## 🔨 Languages and tools
+I originally trained in web development at **[O'clock](https://oclock.io/)** and have since built my experience around **PHP, Symfony, PrestaShop and modern JavaScript/TypeScript applications**.
 
-<a><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-<a><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="EsLint" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> </a>
+A significant part of my recent work has been focused on **PrestaShop development**, from custom modules and theme integration to performance, e-commerce architecture and maintenance.
 
+I like building software that stays practical, maintainable and useful.
 
-## 🎓 Learning
+## Tech stack
 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> </a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
-<a><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" alt="Greensock" width="40" height="40"/> </a>
+### Backend & e-commerce
 
-##
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 
-<a href="https://github.com/Francois-Louis/Francois-Louis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francois-Louis&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+### Frontend
 
-<a href="https://github.com/Francois-Louis/Francois-Louis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Francois-Louis&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="François-Louis's GitHub Stats" />
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<a href=https://github.com/Francois-Louis/Boule-de-poils-Front>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francois-Louis&repo=Boule-de-poils-Front&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+### Data & tooling
 
-<a href=https://github.com/Francois-Louis/Boule-de-poils-Back>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francois-Louis&repo=Boule-de-poils-Back&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## Areas of interest
+
+- PHP & Symfony applications
+- PrestaShop development and e-commerce
+- React & TypeScript
+- UX/UI and web performance
+- Business applications
+- Automation and developer tooling
+- AI-assisted development
+
+## Knifemaking
+
+Alongside software development, I'm also a professional knifemaker.
+
+Through **FL Toussaint**, I design and manufacture knives in France, combining craftsmanship, product design and manufacturing.
+
+**[fltoussaint.com](https://fltoussaint.com/)**
